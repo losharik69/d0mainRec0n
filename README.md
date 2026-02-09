@@ -44,7 +44,7 @@ d0minRec0n performs multiple recon tasks and neatly stores the results in a stru
 
 ### 1. Clone the repository
 ```bash
-git https://github.com/Route6969/d0mainRec0n.git
+git https://github.com/losharik69/d0mainRec0n.git
 cd d0minRec0n
 ```
 
