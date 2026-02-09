@@ -125,5 +125,6 @@ MIT License
 
 ### Author
 
-Created by losharik
+Created by `losharik`
+
 Happy hunting 🕵️‍♂️
